@@ -16,7 +16,6 @@
   },
   "description": "``` npm create astro@latest -- --template basics ```",
   "main": "index.js",
-  "devDependencies": {},
   "author": "Reynaldo Moreno <reynaldomoreno173@gmail.com>",
   "license": "MIT"
 }
